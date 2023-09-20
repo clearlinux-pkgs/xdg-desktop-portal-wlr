@@ -1,0 +1,11 @@
+0.7.0
+pkgconfig(basu)
+pkgconfig(gbm)
+pkgconfig(inih)
+pkgconfig(libelogind)
+pkgconfig(libpipewire-0.3)
+pkgconfig(libsystemd)
+pkgconfig(scdoc)
+pkgconfig(systemd)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
