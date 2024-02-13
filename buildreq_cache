@@ -1,8 +1,6 @@
-0.7.0
-pkgconfig(basu)
+0.7.1
 pkgconfig(gbm)
 pkgconfig(inih)
-pkgconfig(libelogind)
 pkgconfig(libpipewire-0.3)
 pkgconfig(libsystemd)
 pkgconfig(scdoc)
